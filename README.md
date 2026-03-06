@@ -264,7 +264,7 @@ The app will open automatically at `http://localhost:8501`
 
 Streamlit will build your app and give you a public URL like:
 ```
-https://your-username-cryptowave-visualizer-app-xxxxx.streamlit.app
+(https://cryptowavevisualizer.streamlit.app/)
 ```
 
 ---
