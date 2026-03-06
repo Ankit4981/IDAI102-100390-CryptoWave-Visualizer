@@ -319,7 +319,7 @@ https://your-username-cryptowave-visualizer-app-xxxxx.streamlit.app
 | **Programme** | Mathematics for AI-I |
 | **Assessment** | FA-2 Formative Project |
 | **Email** | ankitpradhana387@gmail.com |
-| **GitHub** | [🔗 Add your GitHub link here](https://github.com/) |
+| **GitHub** | [🔗(https://github.com/](https://github.com/Ankit4981/IDAI102-100390-CryptoWave-Visualizer/tree/main) |
 | **Live App** | [🚀 Add your Streamlit link here](https://streamlit.io/) |
 
 </div>
