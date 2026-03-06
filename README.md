@@ -320,7 +320,7 @@ https://your-username-cryptowave-visualizer-app-xxxxx.streamlit.app
 | **Assessment** | FA-2 Formative Project |
 | **Email** | ankitpradhana387@gmail.com |
 | **GitHub** | [🔗(https://github.com/](https://github.com/Ankit4981/IDAI102-100390-CryptoWave-Visualizer/tree/main) |
-| **Live App** | [🚀 Add your Streamlit link here](https://streamlit.io/) |
+| **Live App** | [🚀 (https://cryptowavevisualizer.streamlit.app/) |
 
 </div>
 
